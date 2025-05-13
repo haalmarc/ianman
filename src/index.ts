@@ -1,3 +1,3 @@
-function helloWorld(name: string) {
+export function helloWorld(name: string) {
   console.log("hello", name);
 }
